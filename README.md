@@ -1,2 +1,2 @@
 # go-projeto
-go
+Criando um crud em GO
